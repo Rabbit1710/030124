@@ -1,0 +1,26 @@
+/* header */
+header{}
+.header__top{
+    background-color: #3b84b0;
+    text-transform: uppercase;
+    color:white;
+    padding:10px;
+    font-size:13px;
+    border:0;
+    margin:0;
+}
+.header__bottom{
+  background-image: url('Mạnh-Cường-Recovered.jpg');
+  margin-top:-20px;
+ 
+}
+.header__bottom h2{
+   
+}
+.header__bottom ul{
+    
+}
+.header__bottom ul li{
+    
+    
+}
